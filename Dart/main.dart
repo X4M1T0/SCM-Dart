@@ -92,10 +92,16 @@ void calculoBimestral(){
 */
 
 void calculoTrimestral(){
-
+  clear();
 }
 
-void mediaEmpresarial(){}
+
+/*
+      CALCULO MÉDIA EMPRESARIAL
+*/
+void mediaEmpresarial(){
+  clear();
+}
 
 
 
@@ -103,6 +109,8 @@ void mediaEmpresarial(){}
 void help(){
   clear();
   print('Preisando de uma ajuda? Seguem a baixo os comandos do SCM! \n \n'
+
+  'OBS: SEMPRE INTERPRETE AS OPÇÕES REPONDENDO PELO NÚMERO RESPECTIVO A OPÇÃO!! \n \n'
 
   // Comandos Básicos
   'Comandos Básicos: \n \n'
